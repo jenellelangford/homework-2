@@ -7,7 +7,6 @@
     background-color: thistle;
     padding:20px;
 }
-
 body {
     background-color: white;
 }
@@ -23,13 +22,8 @@ h1 {
     font-family: 'Abril Fatface', cursive;
 }
 
-img {
-    width: 200px;
-    height: 200px;
-}
-
 .footer {
     background-color: thistle;
-    padding: 10px 20px;
-    color: white;
+        padding: 10px 20px;
+        color: white;
 }
