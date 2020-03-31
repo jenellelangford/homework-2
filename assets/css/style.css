@@ -15,7 +15,9 @@ body {
 .container {
     background-color: white;
     outline: 1px solid lightslategray;
-    margin-top:50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
 
 h1 {
@@ -23,12 +25,13 @@ h1 {
     font-family: 'Abril Fatface', cursive;
 }
 img {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
 }
 
 .footer {
     background-color: thistle;
-        padding: 10px 20px;
+        padding: 20px;
         color: white;
 }
