@@ -1,0 +1,35 @@
+.navbar {
+    background-color:black;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.navbar-brand {
+    background-color: thistle;
+    padding:20px;
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+    outline: 2px solid lightslategray;
+    margin-top:50px;
+}
+
+h1 {
+    color: thistle;
+    font-family: 'Abril Fatface', cursive;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.footer {
+    background-color: thistle;
+    padding: 10px 20px;
+    color: white;
+}

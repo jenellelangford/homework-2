@@ -14,7 +14,7 @@ body {
 
 .container {
     background-color: white;
-    outline: 2px solid lightslategray;
+    outline: 1px solid lightslategray;
     margin-top:50px;
 }
 
@@ -27,9 +27,8 @@ img {
     width: 200px;
 }
 
-footer {
-    width: 100%;
+.footer {
     background-color: thistle;
-    padding: 60px 0px;
-}
+        padding: 10px 20px;
+        color: white;
 }

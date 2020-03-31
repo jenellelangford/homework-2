@@ -14,10 +14,17 @@ body {
 
 .container {
     background-color: white;
-    outline: 2px solid lightslategray;
+    outline: 1px solid lightslategray;
     margin-top:50px;
 }
 
 h1 {
     color: thistle;
     font-family: 'Abril Fatface', cursive;
+}
+
+.footer {
+    background-color: thistle;
+    padding: 10px 20px;
+    color: white;
+}
