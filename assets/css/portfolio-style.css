@@ -12,14 +12,20 @@
   padding:20px;
 }
 
+h1 {
+  margin: 20px 20px 20px 20px;
+}
+
 body {
     background-color: white;
 }
 
 .container {
+    flex-wrap: wrap;
     background-color: white;
-    margin-top:50px;
-    margin-bottom: 50px;
+    margin: 0 auto;
+    justify-content: center;
+    justify-content: space-evenly;
 }
 
 h1 {
@@ -27,12 +33,19 @@ h1 {
     font-family: 'Abril Fatface', cursive;
 }
 
-.img-img-thumbnail {
-    width: 200px;
-    height: 200px;
+#image {
+   width: 500px;
+   height: 300px;
+}
+
+#link {
+  font-family: 'Roboto', sans-serif;
+  font-size: large;
+  margin-bottom: 25px;
 }
 
 .footer {
     background-color: thistle;
-        color: white;
+    color: white;
+    justify-content: center;
 }
