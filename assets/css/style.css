@@ -1,3 +1,8 @@
+h1 {
+  color: thistle;
+  font-family: 'Abril Fatface', cursive;
+}
+
 .navbar {
     background-color:black;
     font-family: 'Abril Fatface', cursive;
@@ -8,37 +13,13 @@
     padding:20px;
 }
 
-body {
-    background-color: white;
-}
-
-.container.wrapper {
-    background-color: white;
-    outline: 1px solid lightslategray;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
-}
-@media screen and (max-width:500px) {
-    .p {
-        flex-wrap: wrap;
-    }
-
-@media screen and (max-width: 500px) {
-    .img {
-        display: block;
-    }
+.container {
+  justify-content: space-evenly;
+  justify-content: center;
+  flex: wrap;
 }
 
 
-
-}
-
-
-h1 {
-    color: thistle;
-    font-family: 'Abril Fatface', cursive;
-}
 img {
     height: 150px;
     width: 150px;
