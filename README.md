@@ -1,4 +1,4 @@
-**Portfolio**
+# STUDENT PORTFOLIO
 
 **Description**
 * This portfolio has been created from scratch and updated throughout the bootcampp to reflect different design concepts, homework assignments and projects that I have learned and completed throughout the course. 
