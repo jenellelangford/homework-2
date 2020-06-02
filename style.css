@@ -26,12 +26,16 @@ body {
   flex: wrap;
 }
 
+p {
+  flex: wrap;
+}
 
 img {
     border-radius: 50%;
     height: 200px;
     width: 200px;
     padding: 10px;
+    flex: wrap;
 }
 
 .footer {
