@@ -24,8 +24,8 @@ form {
 }
 
 h1 {
-  color: thistle;
-  font-family: 'Abril Fatface', cursive;
+  color: thistle !important;
+  font-family: 'Abril Fatface', cursive !important;
 }
 
 .footer {

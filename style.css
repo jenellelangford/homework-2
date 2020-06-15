@@ -1,6 +1,6 @@
 h1 {
-  color: thistle;
-  font-family: 'Abril Fatface', cursive;
+  color: thistle !important;
+  font-family: 'Abril Fatface', cursive !important;
 }
 
 .navbar {
@@ -42,4 +42,10 @@ img {
     text-align: center;
     background-color: thistle;
     color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  
+    
 }
